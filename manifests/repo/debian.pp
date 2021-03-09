@@ -18,6 +18,7 @@ class fluentbit::repo::debian {
     'Ubuntu' => [
       'xenial',
       'bionic',
+      'focal',
     ],
     'Raspbian' => [
       'jessie',
